@@ -4,9 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+The goal of the order summary card was to work on the fundamentals of CSS and HTML.
 
 ## Where to find everything
 
